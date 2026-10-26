@@ -2,5 +2,5 @@
 <p>Hands-on projects documenting my learning in IT infrastructure, technical support, and systems administration.</p>
 
 <h3>Projects</h3>
-[Active Directory Lab]()
+[Active Directory Lab](active-directory-lab/)
 <p>An independent virtualised environment for practising identity and access management, DNS, DHCP, and network configuration.</p>
