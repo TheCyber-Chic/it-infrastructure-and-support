@@ -23,6 +23,6 @@ Investigated and resolved issues involving DNS SRV record lookups, VirtualBox ne
 - Verified the client appeared in Active Directory Users and Computers
 
 ## <h3>Documentation</h3>
-See the [full lab report](docs/active-directory-lab-report.pdf) for the detailed configuration, troubleshooting process, and lessons learned.
+See the [full lab report](active-directory-lab-report.pdf) for the detailed configuration, troubleshooting process, and lessons learned.
 
 <i>This project was conducted in a controlled virtual environment for learning purposes. It demonstrates lab-based practice, not production enterprise administration experience.</i>
