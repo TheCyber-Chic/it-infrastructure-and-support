@@ -16,4 +16,4 @@
 - Post-installation configuration and verification
 
 ## <h3>Documentation</h3>
-See the [Virtual Machine Deployment Guide](virtual-machine-deployment-guide_oracle-virtualBox.pdf) for detailed procedures and configuration steps.
+See the [Virtual Machine Deployment Guide](virtual-machine-deployment-guide_oracle-virtualbox.pdf) for detailed procedures and configuration steps.
