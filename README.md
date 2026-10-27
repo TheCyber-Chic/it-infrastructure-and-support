@@ -3,3 +3,5 @@
 
 ## <h3>Projects</h3>
 - [Active Directory Lab](active-directory-lab/) - An independent virtualised environment for practising identity and access management, DNS, DHCP, and network configuration.
+
+- [Virtual Machine Deployment Guide](virtual-machine-deployment-guide/) - Repeatable procedures for deploying, configuring, and managing virtual machines in Oracle VirtualBox.
